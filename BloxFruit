@@ -22,7 +22,7 @@ end
 
 -- Lib/>
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Brineeee/EastHub-Script/main/SourceV2"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Brineeee/EastHub-Script/main/SourceV2.0.2"))()
 
 local Window = Library:Create("East Hub","Blox Fruit")
 
